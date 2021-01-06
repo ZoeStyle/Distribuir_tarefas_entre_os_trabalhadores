@@ -1,4 +1,4 @@
-# APLICANDO FILA NAS REQUISIÇÕES COM PROTOCOLO AMQP
+# Distribuir tarefas entre os trabalhadores (o padrão de consumidores concorrentes)
   
   
 ## Projeto NewTask
@@ -22,7 +22,7 @@ O projeto newTask é responsável por enviar mensagens
 ## Projeto Worker
   
   
-O projeto Worker é responsável por receber todas as mensagens 
+O projeto Worker é responsável por receber todas as mensagens e distruir as tarefas recebidos em fila
   
   
 >Ao executar o comando dotnet run o retorno que esta aplicação é:
