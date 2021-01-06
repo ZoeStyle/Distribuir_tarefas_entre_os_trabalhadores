@@ -22,7 +22,7 @@ O projeto newTask é responsável por enviar mensagens
 ## Projeto Worker
   
   
-O projeto Worker é responsável por receber todas as mensagens e distruir as tarefas recebidos em fila
+O projeto Worker é responsável por receber todas as mensagens e distruir as tarefas recebidas em fila para exibição
   
   
 >Ao executar o comando dotnet run o retorno que esta aplicação é:
