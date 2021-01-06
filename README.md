@@ -1,0 +1,1 @@
+# ApLicando_fila_com_protocolo_amqp
